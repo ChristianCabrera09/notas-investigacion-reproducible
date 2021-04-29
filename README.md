@@ -1,2 +1,2 @@
-# notas-investigacion-reproducible
-Tarea #1 Procesamiento de datos geográficos
+#Notas sobre investigación reproducible y análisis de datos  
+###Reproductibilidad  
